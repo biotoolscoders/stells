@@ -14,5 +14,12 @@ Coalescent and its Application in the Inference of Population Tree", submitted f
 
 Note: Files can be downloaded using "Save Link/Target As..." After downloading the softwares, you may need to change file access permissions (e.g. chmod u+x stells-linux).
 
-#STELLS2
+# Build instruction
+Extract the source code files from the zipped file. From a console window, move to the directory containing the C++ source files, and type:
+
+make
+
+That should be all you need to do! Then check out the instructions given in the user manual and try to run STELLS with the provided example gene tree and species tree files.
+
+# STELLS2
 I have developed a new version of STELLS, called STELLS2. STELLS2 is a heuristic version of STELLS. STELLS2 doesn't compute the same probability as STELLS, but it is much faster than STELLS. If you have large data, you may want to consider using STELLS2. In any case, I provide STELLS code here in case you want to use the original STELLS.
