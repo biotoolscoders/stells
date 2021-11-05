@@ -1,4 +1,5 @@
 # STELLS
+Current version: v. 2.0.0 (released at: October 27, 2015)
 Developer: Yufeng Wu
 
 STELLS is a program for finding the maximum likelihood estimate of the species tree for the given gene trees, which undergo incomplete lineage sorting (as illustrated in the above figure). STELLS can also compute the gene tree probability for a given species tree. It has also been extended for the inference of population trees from haplotypes. See my papers for more details.
